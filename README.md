@@ -1,3 +1,3 @@
 # HeapSort
 
-HeapSort handwritten implementation in LLVM IR.
+Hand-written implementation of HeapSort in LLVM IR.
